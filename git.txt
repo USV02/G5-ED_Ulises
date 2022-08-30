@@ -1,0 +1,5 @@
+cd desktop/G5-ED_Ulises (ubicar repositorio)
+git status (revisar nuevas modificaiones)
+git add. (agregar todos los archivos nuevos)
+git commit-m "descripcion commit" (poner una descripcion de los cambios realizados)
+git push (subir los cambios)
