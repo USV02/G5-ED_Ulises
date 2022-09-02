@@ -1,0 +1,13 @@
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Operaciones básicas\Operaciones básicas\bin\Debug\netcoreapp3.1\Operaciones básicas.exe
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Operaciones básicas\Operaciones básicas\bin\Debug\netcoreapp3.1\Operaciones básicas.deps.json
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Operaciones básicas\Operaciones básicas\bin\Debug\netcoreapp3.1\Operaciones básicas.runtimeconfig.json
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Operaciones básicas\Operaciones básicas\bin\Debug\netcoreapp3.1\Operaciones básicas.runtimeconfig.dev.json
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Operaciones básicas\Operaciones básicas\bin\Debug\netcoreapp3.1\Operaciones básicas.dll
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Operaciones básicas\Operaciones básicas\bin\Debug\netcoreapp3.1\Operaciones básicas.pdb
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Operaciones básicas\Operaciones básicas\obj\Debug\netcoreapp3.1\Operaciones básicas.AssemblyInfoInputs.cache
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Operaciones básicas\Operaciones básicas\obj\Debug\netcoreapp3.1\Operaciones básicas.AssemblyInfo.cs
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Operaciones básicas\Operaciones básicas\obj\Debug\netcoreapp3.1\Operaciones básicas.csproj.CoreCompileInputs.cache
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Operaciones básicas\Operaciones básicas\obj\Debug\netcoreapp3.1\Operaciones básicas.dll
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Operaciones básicas\Operaciones básicas\obj\Debug\netcoreapp3.1\Operaciones básicas.pdb
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Operaciones básicas\Operaciones básicas\obj\Debug\netcoreapp3.1\Operaciones básicas.genruntimeconfig.cache
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Operaciones básicas\Operaciones básicas\obj\Debug\netcoreapp3.1\Operaciones básicas.csprojAssemblyReference.cache

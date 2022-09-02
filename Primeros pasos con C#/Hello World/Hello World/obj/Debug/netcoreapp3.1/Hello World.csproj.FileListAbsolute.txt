@@ -1,0 +1,13 @@
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.exe
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.deps.json
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.json
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.dev.json
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.dll
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.pdb
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.csprojAssemblyReference.cache
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfoInputs.cache
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfo.cs
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.dll
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.pdb
+C:\Users\100015710\Desktop\G5-ED_Ulises\Primeros pasos con C#\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.genruntimeconfig.cache
