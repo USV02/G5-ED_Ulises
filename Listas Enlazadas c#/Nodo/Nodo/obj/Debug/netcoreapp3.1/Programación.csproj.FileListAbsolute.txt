@@ -1,0 +1,13 @@
+C:\Users\100015710\Desktop\G5-ED_Ulises\Listas Enlazadas c#\Nodo\Nodo\obj\Debug\netcoreapp3.1\Programación.AssemblyInfoInputs.cache
+C:\Users\100015710\Desktop\G5-ED_Ulises\Listas Enlazadas c#\Nodo\Nodo\obj\Debug\netcoreapp3.1\Programación.AssemblyInfo.cs
+C:\Users\100015710\Desktop\G5-ED_Ulises\Listas Enlazadas c#\Nodo\Nodo\obj\Debug\netcoreapp3.1\Programación.csproj.CoreCompileInputs.cache
+C:\Users\100015710\Desktop\G5-ED_Ulises\Listas Enlazadas c#\Nodo\Nodo\bin\Debug\netcoreapp3.1\Programación.exe
+C:\Users\100015710\Desktop\G5-ED_Ulises\Listas Enlazadas c#\Nodo\Nodo\bin\Debug\netcoreapp3.1\Programación.deps.json
+C:\Users\100015710\Desktop\G5-ED_Ulises\Listas Enlazadas c#\Nodo\Nodo\bin\Debug\netcoreapp3.1\Programación.runtimeconfig.json
+C:\Users\100015710\Desktop\G5-ED_Ulises\Listas Enlazadas c#\Nodo\Nodo\bin\Debug\netcoreapp3.1\Programación.runtimeconfig.dev.json
+C:\Users\100015710\Desktop\G5-ED_Ulises\Listas Enlazadas c#\Nodo\Nodo\bin\Debug\netcoreapp3.1\Programación.dll
+C:\Users\100015710\Desktop\G5-ED_Ulises\Listas Enlazadas c#\Nodo\Nodo\bin\Debug\netcoreapp3.1\Programación.pdb
+C:\Users\100015710\Desktop\G5-ED_Ulises\Listas Enlazadas c#\Nodo\Nodo\obj\Debug\netcoreapp3.1\Programación.csprojAssemblyReference.cache
+C:\Users\100015710\Desktop\G5-ED_Ulises\Listas Enlazadas c#\Nodo\Nodo\obj\Debug\netcoreapp3.1\Programación.dll
+C:\Users\100015710\Desktop\G5-ED_Ulises\Listas Enlazadas c#\Nodo\Nodo\obj\Debug\netcoreapp3.1\Programación.pdb
+C:\Users\100015710\Desktop\G5-ED_Ulises\Listas Enlazadas c#\Nodo\Nodo\obj\Debug\netcoreapp3.1\Programación.genruntimeconfig.cache
